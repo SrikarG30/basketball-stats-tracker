@@ -1,1 +1,2 @@
-# basketball-stats-tracker
+# basketball-stats-tracker 
+Real time Basketball Stats Tracking app
